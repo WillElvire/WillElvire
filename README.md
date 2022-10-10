@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillElvire
-- 👀 I’m interested in Code , Fintech , Trading , Cryppto
+- 👀 I’m interested in Code , Fintech , Trading , Crypto
 - 🌱 I’m currently learning  CI / CD 
 - 💞️ I’m looking to collaborate on plenty projects
 - 📫 How to reach me whrite me on linkedIn , Whatsapp , Discord and other
